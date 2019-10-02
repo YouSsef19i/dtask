@@ -1,0 +1,109 @@
+
+          *{
+              margin: 0 ;
+              padding: 0 ;
+              outline: 0 ;
+              text-align: center;
+              font-family: 'Oleo Script';font-size: 22px;
+
+        
+            }
+
+          body { 
+              text-align: center;
+          }
+
+
+
+
+          .page1{ 
+
+                background-image: url(header.jpg);     
+                background-size: cover;
+                padding: 200px;
+                text-align: center;
+               
+            }
+
+            .page2{
+            text-align: center;
+            display: inline-block;
+            
+
+            }  
+     
+
+            
+        
+
+            .text011{
+                color: white;
+                text-align: center;
+                
+            }
+
+    
+            .page3{
+                
+                box-sizing: border-box;
+                text-align: center; height: 600px;
+            }
+            .text011{
+                color: #fff;
+                text-align: center;
+            
+            }
+            
+            .pic5{
+
+                width: 20%;
+            }
+          
+
+
+            .page4{  
+                color: #fff;
+
+                background-image: url(sep.jpg);  
+                background-repeat: no-repeat;   
+                background-size: cover;
+                padding: 200px ;
+                padding-bottom: 0%;
+                text-align: center;
+                font-size: 30px;
+                
+
+            }
+
+            .input11
+            {
+                background-color:rgb(192,192,192);opacity:0.6;
+                width: 40%;
+                border:2px solid #aaa;
+                border-radius: 4px;
+                margin: 8PX 70px  ;   
+                font-family: 'Aladin';    font-size: 35px; 
+                color: #fff; 
+                outline: none ;
+                padding: 8px ; 
+                box-sizing: border-box;
+                border-radius: 1rem;
+            }
+
+            .smedia{
+                box-sizing: border-box;
+                margin-top: 200px;
+                width: 100%;
+                background-color: #6FE8DE;
+            }
+           .ssmm2{
+            margin-left: 50px;  
+           }
+           .mediabot{
+            display: inline-block;
+        }
+
+            
+
+     
+        
